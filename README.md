@@ -8,3 +8,5 @@
 1. Run the installer: `php composer-setup.php`
 1. Remove the installer: `php -r "unlink('composer-setup.php');"`
 1. Install dependencies `php composer.phar install`
+
+php -S localhost:8000
