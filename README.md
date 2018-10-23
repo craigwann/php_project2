@@ -9,4 +9,7 @@
 1. Remove the installer: `php -r "unlink('composer-setup.php');"`
 1. Install dependencies `php composer.phar install`
 
-php -S localhost:8000
+
+### CLI Notes:
+1. php run server: `php -S localhost:8000`
+1. php interactive Shell: `php -a`
